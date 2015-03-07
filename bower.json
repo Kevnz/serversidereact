@@ -1,0 +1,7 @@
+{
+  "name": "presentation-react-on-the-server",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
