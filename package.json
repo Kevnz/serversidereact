@@ -1,7 +1,9 @@
 {
   "name": "presentation-react-on-the-server",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    
+  },
   "devDependencies": {
     "bespoke": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
@@ -10,6 +12,7 @@
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",
     "bespoke-theme-cube": "^1.0.0",
+    "bespoke-theme-nebula": "^1.0.1",
     "bespoke-touch": "^1.0.0",
     "debowerify": "^0.7.1",
     "gh-pages": "^0.2.0",
